@@ -1,6 +1,6 @@
 # Overview
 
-A project made in ROS to simulate an `Autonomous` car to navigate through waypoints and through lanes.
+A project made in ROS to simulate an `Autonomous` car to navigate through waypoints and through lanes. The final project relies on feedback from the motors to track the position of the car and provide a control input accordingly.
 
 # Contributers
 
